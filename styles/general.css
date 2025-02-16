@@ -1,0 +1,21 @@
+p
+{font-family: Roboto,Arial ,sans-serif;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+body
+{
+  display: flex;
+  margin: 0px;
+  padding-top: 80px;
+  padding-left: 90px;
+  padding-right: 24px;
+  background-color: rgb(247, 247, 247);
+}
+
+a:link 
+{
+  background-color: transparent;
+  text-decoration: none;
+}
